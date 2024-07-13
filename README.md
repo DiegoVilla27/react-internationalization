@@ -1,6 +1,6 @@
-# ReactRules 📁
+# ReactInternationalization 📁
 
-Rules to linters (React and TypeScript), prettier, husky and commitlint
+React Internationalization
 
 - This project was generated with [Vite](https://vitejs.dev/guide/) version 5.3.1
 ```bash
