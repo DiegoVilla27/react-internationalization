@@ -1,0 +1,7 @@
+{
+  "translation": {
+    "WELCOME": "Bienvenido a i18n",
+    "TITLE": "¡Hola, {{ name }}!",
+    "CHANGE_LANGUAGE": "Cambiar idioma"
+  }
+}
